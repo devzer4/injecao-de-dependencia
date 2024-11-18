@@ -1,0 +1,13 @@
+com\mycompany\injecaodedependencia\com_padrao\EmailSender.class
+com\mycompany\injecaodedependencia\MessageService.class
+com\mycompany\injecaodedependencia\SMSSender.class
+com\mycompany\injecaodedependencia\com_padrao\IMessageSender.class
+com\mycompany\injecaodedependencia\com_padrao\MessageService2.class
+com\mycompany\injecaodedependencia\com_padrao\SMSSender.class
+com\mycompany\injecaodedependencia\EmailSender.class
+com\mycompany\injecaodedependencia\IMessageSender.class
+com\mycompany\injecaodedependencia\com_padrao\Main.class
+com\mycompany\injecaodedependencia\com_padrao\MessageSenderInjection.class
+com\mycompany\injecaodedependencia\com_padrao\MessageService3.class
+com\mycompany\injecaodedependencia\Main.class
+com\mycompany\injecaodedependencia\com_padrao\MessageService.class
